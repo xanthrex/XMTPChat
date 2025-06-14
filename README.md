@@ -11,4 +11,4 @@ The core components include:
 
 The following image shows the user interface for the XMTP chat component:
 
-![XMTP Chat Interface](Capture d’écran 2025-06-14 à 08.09.36.png)
+![XMTP Chat Interface](chatscreen.png)
